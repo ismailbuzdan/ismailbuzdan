@@ -20,7 +20,6 @@
 
 ## Featured Projects
 > “Beni tanıtan şey kartlar değil, çalışan projeler.”  
-Aşağıdaki bağlantıları kendi repo adlarınla güncelle.
 
 ### 1) Django Portfolio (Dockerized)
 - **What:** Portfolio website + `/healthz/` + persistent SQLite/media
