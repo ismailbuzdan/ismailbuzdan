@@ -12,7 +12,7 @@
   <a href="mailto:ismailbuzdan@gmail.com"><b>Email</b></a> ·
   <a href="https://linkedin.com/in/ismailbuzdan"><b>LinkedIn</b></a> ·
   <a href="https://twitter.com/ismailbuzdan"><b>X</b></a> ·
-  <a href="https://kaggle.com/smailbuzdan"><b>Kaggle</b></a> ·
+  <a href="https://kaggle.com/ismailbuzdan"><b>Kaggle</b></a> ·
   <a href="https://www.youtube.com/c/lugattwtich"><b>YouTube</b></a>
 </p>
 
